@@ -269,7 +269,7 @@ public class mains {  // MAIN METHOD
       CarRentalSystem rentalSystem = new CarRentalSystem();
     
       //WE HAVE ONLY 3 cars and the details of it
-      Car car1 = new Car( "Z001" , "Toyota" , "Camry" ,  60.0);
+      Car car1 = new Car( "Z000" , "Toyota" , "Camry" ,  60.0);
       Car car2 = new Car ( "Z002" , "Honda" , "Accord" ,  80.0);
       Car car3 = new Car ( "Z003" , "Mahindra" , "Thar" , 100.0);
 
